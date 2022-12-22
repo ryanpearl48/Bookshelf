@@ -1,0 +1,22 @@
+/* BODY DESIGN */
+body {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(228, 227, 227);
+}
+
+div {
+    max-width: 350px;
+    height: 350px;
+    display:flex;
+    align-items: center;
+    background-image: url(pictures/book.png);
+    border: 2px solid black;
+}
+
+p {
+    display: flex;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+
