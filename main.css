@@ -10,7 +10,7 @@ div {
     height: 350px;
     display:flex;
     align-items: center;
-    background-image: url(pictures/book.png);
+    background-image: url(book.png);
     border: 2px solid black;
 }
 
